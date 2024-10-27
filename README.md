@@ -53,6 +53,6 @@
 </div>
 
 <div align="center">
-    <h2>Random Dev Quote</h2>
+    <h2><img src="https://cdn.discordapp.com/emojis/642200350316691468.webp?size=96&quality=lossless" width="30px"/>  Random Dev Quote</h2>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
