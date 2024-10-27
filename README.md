@@ -2,7 +2,7 @@
 
 ###  🎮 Bot Developer & Game Developer. 
 
- ![Snake animation](https://github.com/JVtristaoAC/JVtristaoAC/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/ahmeds-khalid/ahmeds-khalid/output/github-contribution-grid-snake-dark.svg)
   <br>
 <div align='center'>
  <h1> ⚡ Activity 📆</h1>
