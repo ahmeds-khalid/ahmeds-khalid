@@ -13,9 +13,9 @@
         <img src="https://cdn.discordapp.com/emojis/1183633671849250908.webp?size=96&quality=lossless" width="30px"/>
         About Me
     </h3>
-    <p>💻 Passionate about creating bots and games</p>
-    <p>🎮 Experienced in game development</p>
-    <p>🌱 Always learning new technologies</p>
+    <p>🚀 Building bots that make life easier (and sometimes sillier)</p>
+    <p>🤖 Turning coffee into code and ideas into bots</p>
+    <p>⚡ Always cooking up new digital experiments</p>
 </div>
 
 <div align="center">
