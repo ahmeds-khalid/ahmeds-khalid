@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://cdn.discordapp.com/emojis/814371796731953192.gif?size=96&quality=lossless" width="30px"/>
-    Welcome to my GitHub Profile!
+    Hello There!!
     <img src="https://cdn.discordapp.com/emojis/814371796731953192.gif?size=96&quality=lossless" width="30px"/>
 </h1>
 
