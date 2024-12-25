@@ -36,7 +36,7 @@
         Technologies & Tools
     </h2>
 <p>
-<img src="https://skillicons.dev/icons?i=py,godot,html,css,js,flutter,dart,discord,bots,ps,pr,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=py,java,godot,html,css,js,flutter,dart,discord,bots,ps,pr&perline=6"/>
 </p>
 </div>
 
