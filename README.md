@@ -44,7 +44,7 @@
     <h2>    
         <img src="https://cdn.discordapp.com/emojis/1173369239994896535.webp?size=96&quality=lossless" width="40px"/>  Connect with Me
     </h2>
-<a href="https://ahmeds-khalid.github.io/portfolio/" target="_blank">
+<a href="https://ahmeds-khalid.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
 </a>
 <a href="https://github.com/ahmeds-khalid" target="_blank">
