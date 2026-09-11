@@ -3,13 +3,6 @@
 </div>
 
 <div align="center">
-    <h3>
-        About Me
-    </h3>
-    <p>Hobbyist </p>
-</div>
-
-<div align="center">
     <h2>
         Activity
     </h2>
